@@ -1,4 +1,8 @@
 #Food Vision
+
+
+
+
 Project Overview
 Food Vision is a deep learning project that leverages the power of Convolutional Neural Networks (CNNs) to classify food images into various categories. The goal of this project was to surpass the accuracy benchmark set by a research paper that used traditional Machine Learning (ML) methods. By implementing CNNs, specifically EfficientNetB0 through transfer learning, I achieved a significant improvement in accuracy over the traditional ML approaches.
 
